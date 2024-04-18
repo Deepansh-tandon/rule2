@@ -1,0 +1,464 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(jjj.jpeg);
+  
+  background-repeat: no-repeat;
+  
+background-size: cover;
+background-position: center;
+}
+
+.rule {
+  font-family: Garamond;
+  color: #ffffff;
+  font-weight: medium;
+  text-align: center;
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 5px #ffffff;
+  /* text-decoration: underline 5px; */
+  text-decoration-color: #248290;
+  
+}
+
+#side {
+  margin-left: 25rem;
+}
+
+.content {
+  font-family: Garamond;
+  font-size: 29px;
+  color: rgb(255, 255, 255);
+  margin-right: -2rem; 
+  align-items: center;
+}
+
+.content-box {
+  margin-top: 20px;
+  background-color: rgba(0,0,0, 0.5);
+  border-radius: 10px;
+  padding: 15px;
+  width: 80%;
+  line-height: 50px;
+  opacity: 90%;
+  display:flex ;
+  align-items: center;
+  justify-content: center;
+  margin-left: 8rem;
+  /* margin-top: -1.8rem; */
+  
+}
+
+
+.rule #headline {
+  transition: letter-spacing 0.7s ease; 
+}
+
+.rule:hover #headline {
+  letter-spacing: 10px; 
+  transition: letter-spacing 0.7s ease; 
+}
+
+.content2 {
+  font-family: Garamond;
+  font-size: 29px;
+  color: rgb(255, 255, 255);
+  margin-right: -2rem; 
+  align-items: center;
+}
+
+.content-box2 {
+  margin-top: 20px;
+  background-color: rgba(0,0,0, 0.5);
+  border-radius: 10px;
+  padding: 15px;
+  width: 80%;
+  line-height: 50px;
+  opacity: 90%;
+  align-items: center;
+  margin-left: 8rem;
+  /* margin-top: -1.8rem; */
+  
+}
+/* 
+#code{
+  color: #ffffff;
+  font-size: 45px;
+display: flex;
+align-items: center;
+justify-content: center;
+} */
+
+.rule2 {
+  font-family: Garamond;
+  color: #ffffff;
+  font-weight: medium;
+  text-align: center;
+  font-size: 1.5rem;
+  text-shadow: 0.5px 0.5px 2px #ffffff;
+  /* text-decoration: underline 5px; */
+  text-decoration-color: #248290;
+
+  
+}
+#headline2{
+  margin-top: -20px;
+}
+
+@media only screen and (min-width:1900px){
+  .rule {
+     font-size: 2.5rem;
+  
+}
+.content {
+  font-family: Garamond;
+  font-size: 32px;
+  color: rgb(255, 255, 255);
+  margin-right: -2rem; 
+  align-items: center;
+}
+.content-box {
+  margin-left: 10rem;
+}
+.content2 {
+  font-family: Garamond;
+  font-size: 32px;
+  color: rgb(255, 255, 255);
+  margin-right: -2rem; 
+  align-items: center;
+}
+.content-box2 {
+  margin-left: 10rem;
+  
+}
+.rule2 {
+  font-size: 1.7rem;    
+}
+
+}
+@media only screen and (min-width: 1101px) and (max-width: 1400px)
+{
+  .rule {
+    font-size: 2.5rem;
+ 
+}
+.content {
+ font-family: Garamond;
+ font-size: 30px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box {
+ margin-left: 7rem;
+}
+.content2 {
+ font-family: Garamond;
+ font-size: 30px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box2 {
+ margin-left: 7rem;
+ 
+}
+.rule2 {
+ font-size: 1.7rem;    
+}
+  
+}
+
+@media only screen and (min-width: 1439px) and (max-width: 1900px)
+{
+  .rule {
+    font-size: 2.5rem;
+ 
+}
+.content {
+ font-family: Garamond;
+ font-size: 29px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box {
+ margin-left: 8rem;
+}
+.content2 {
+ font-family: Garamond;
+ font-size: 29px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box2 {
+ margin-left: 8rem;
+ 
+}
+.rule2 {
+ font-size: 1.7rem;    
+}
+  
+}
+
+@media only screen and (min-width: 820px) and (max-width: 1100px)
+{
+  .rule {
+    font-size: 2.5rem;
+ 
+}
+.content {
+ font-family: Garamond;
+ font-size: 26.9px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box {
+ margin-left: 5.5rem;
+}
+.content2 {
+ font-family: Garamond;
+ font-size: 26.9px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box2 {
+ margin-left: 5.5rem;
+ 
+}
+.rule2 {
+ font-size: 1.4rem;    
+}
+  
+}
+
+@media only screen and (min-width: 500px) and (max-width: 821px)
+{
+  .rule {
+    font-size: 2.5rem;
+ 
+}
+.content {
+ font-family: Garamond;
+ font-size: 30px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box {
+ margin-left: 7rem;
+}
+.content2 {
+ font-family: Garamond;
+ font-size: 30px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box2 {
+ margin-left: 5.5rem;
+ 
+}
+.rule2 {
+ font-size: 1.4rem;    
+}
+  
+}
+@media only screen and (min-width:1900px){
+  .rule {
+     font-size: 2.5rem;
+  
+}
+.content {
+  font-family: Garamond;
+  font-size: 32px;
+  color: rgb(255, 255, 255);
+  margin-right: -2rem; 
+  align-items: center;
+}
+.content-box {
+  margin-left: 10rem;
+}
+.content2 {
+  font-family: Garamond;
+  font-size: 32px;
+  color: rgb(255, 255, 255);
+  margin-right: -2rem; 
+  align-items: center;
+}
+.content-box2 {
+  margin-left: 10rem;
+  
+}
+.rule2 {
+  font-size: 1.7rem;    
+}
+
+}
+@media only screen and (min-width: 1101px) and (max-width: 1400px)
+{
+  .rule {
+    font-size: 2.5rem;
+ 
+}
+.content {
+ font-family: Garamond;
+ font-size: 30px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box {
+ margin-left: 7rem;
+}
+.content2 {
+ font-family: Garamond;
+ font-size: 30px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box2 {
+ margin-left: 7rem;
+ 
+}
+.rule2 {
+ font-size: 1.7rem;    
+}
+  
+}
+
+@media only screen and (min-width: 1439px) and (max-width: 1900px)
+{
+  .rule {
+    font-size: 2.5rem;
+ 
+}
+.content {
+ font-family: Garamond;
+ font-size: 29px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box {
+ margin-left: 8rem;
+}
+.content2 {
+ font-family: Garamond;
+ font-size: 29px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box2 {
+ margin-left: 8rem;
+ 
+}
+.rule2 {
+ font-size: 1.7rem;    
+}
+  
+}
+
+@media only screen and (min-width: 820px) and (max-width: 1100px)
+{
+  .rule {
+    font-size: 2.5rem;
+ 
+}
+.content {
+ font-family: Garamond;
+ font-size: 26.9px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box {
+ margin-left: 5.5rem;
+}
+.content2 {
+ font-family: Garamond;
+ font-size: 26.9px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box2 {
+ margin-left: 5.5rem;
+ 
+}
+.rule2 {
+ font-size: 1.4rem;    
+}
+  
+}
+
+@media only screen and (min-width: 500px) and (max-width: 821px)
+{
+  .rule {
+    font-size: 2.5rem;
+ 
+}
+.content {
+ font-family: Garamond;
+ font-size: 24px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box {
+ margin-left: 7rem;
+}
+.content2 {
+ font-family: Garamond;
+ font-size: 30px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box2 {
+ margin-left: 5.5 rem;
+ 
+}
+.rule2 {
+ font-size: 1.4rem;    
+}
+  
+}
+
+@media only screen and (min-width: 300px) and (max-width: 499px)
+{
+  .rule {
+    font-size: 2.5rem;
+ 
+}
+.content {
+ font-family: Garamond;
+ font-size: 24px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box {
+ margin-left: 7rem;
+}
+.content2 {
+ font-family: Garamond;
+ font-size: 28px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
+}
+.content-box2 {
+ margin-left: 5.5 rem;
+ 
+}
+.rule2 {
+ font-size: 1.1rem;    
+}
+  
+}
