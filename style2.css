@@ -107,41 +107,83 @@ justify-content: center;
 
 @media only screen and (min-width:1900px){
   .rule {
-     font-size: 2.5rem;
-  
+    font-size: 2.5rem;
+ 
+}
+.bg{
+ background-image: url(econlogoblue.png);
+ background-size: cover;
+ background-repeat: no-repeat;
+ z-index: 500px;
+ width: 12rem;
+ height: 11rem;
+ margin-top: -175px;
+ margin-left: 150px;
+}
+.bg1{
+ background-image: url(vecteezy_champions-league-logo-symbol-white-design-football-vector_10994476\ [Converted].png);
+ background-size: cover;
+ background-repeat: no-repeat;
+ z-index: 500px;
+ width: 22rem;
+ height: 11rem;
+ margin-top: -175px;
+margin-left: 95rem;
+ 
 }
 .content {
-  font-family: Garamond;
-  font-size: 32px;
-  color: rgb(255, 255, 255);
-  margin-right: -2rem; 
-  align-items: center;
+ font-family: Garamond;
+ font-size: 32px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
 }
 .content-box {
-  margin-left: 10rem;
+ margin-left: 10rem;
 }
 .content2 {
-  font-family: Garamond;
-  font-size: 32px;
-  color: rgb(255, 255, 255);
-  margin-right: -2rem; 
-  align-items: center;
+ font-family: Garamond;
+ font-size: 32px;
+ color: rgb(255, 255, 255);
+ margin-right: -2rem; 
+ align-items: center;
 }
 .content-box2 {
-  margin-left: 10rem;
-  
+ margin-left: 10rem;
+ 
 }
 .rule2 {
-  font-size: 1.7rem;    
-}
-
-}
+ font-size: 1.7rem;    
+ padding-top:  1rem;
+}}
 @media only screen and (min-width: 1101px) and (max-width: 1400px)
 {
   .rule {
     font-size: 2.5rem;
  
 }
+
+.bg{
+  background-image: url(econlogoblue.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 500px;
+  width: 10rem;
+  height: 9rem;
+  margin-top: -175px;
+  margin-left: 80px;
+}
+.bg1{
+  background-image: url(vecteezy_champions-league-logo-symbol-white-design-football-vector_10994476\ [Converted].png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 500px;
+  width: 20rem;
+  height: 10rem;
+  margin-top: -140px;
+margin-left: 55rem;
+  
+}
 .content {
  font-family: Garamond;
  font-size: 30px;
@@ -167,73 +209,9 @@ justify-content: center;
  font-size: 1.7rem;    
 }
   
-}
-
-@media only screen and (min-width: 1439px) and (max-width: 1900px)
-{
-  .rule {
-    font-size: 2.5rem;
- 
-}
-.content {
- font-family: Garamond;
- font-size: 29px;
- color: rgb(255, 255, 255);
- margin-right: -2rem; 
- align-items: center;
-}
-.content-box {
- margin-left: 8rem;
-}
-.content2 {
- font-family: Garamond;
- font-size: 29px;
- color: rgb(255, 255, 255);
- margin-right: -2rem; 
- align-items: center;
-}
-.content-box2 {
- margin-left: 8rem;
- 
-}
-.rule2 {
- font-size: 1.7rem;    
-}
   
 }
 
-@media only screen and (min-width: 820px) and (max-width: 1100px)
-{
-  .rule {
-    font-size: 2.5rem;
- 
-}
-.content {
- font-family: Garamond;
- font-size: 26.9px;
- color: rgb(255, 255, 255);
- margin-right: -2rem; 
- align-items: center;
-}
-.content-box {
- margin-left: 5.5rem;
-}
-.content2 {
- font-family: Garamond;
- font-size: 26.9px;
- color: rgb(255, 255, 255);
- margin-right: -2rem; 
- align-items: center;
-}
-.content-box2 {
- margin-left: 5.5rem;
- 
-}
-.rule2 {
- font-size: 1.4rem;    
-}
-  
-}
 
 @media only screen and (min-width: 500px) and (max-width: 821px)
 {
@@ -267,134 +245,59 @@ justify-content: center;
 }
   
 }
-@media only screen and (min-width:1900px){
-  .rule {
-     font-size: 2.5rem;
-  
-}
-.content {
-  font-family: Garamond;
-  font-size: 32px;
-  color: rgb(255, 255, 255);
-  margin-right: -2rem; 
-  align-items: center;
-}
-.content-box {
-  margin-left: 10rem;
-}
-.content2 {
-  font-family: Garamond;
-  font-size: 32px;
-  color: rgb(255, 255, 255);
-  margin-right: -2rem; 
-  align-items: center;
-}
-.content-box2 {
-  margin-left: 10rem;
-  
-}
-.rule2 {
-  font-size: 1.7rem;    
-}
-
-}
-@media only screen and (min-width: 1101px) and (max-width: 1400px)
-{
-  .rule {
-    font-size: 2.5rem;
- 
-}
-.content {
- font-family: Garamond;
- font-size: 30px;
- color: rgb(255, 255, 255);
- margin-right: -2rem; 
- align-items: center;
-}
-.content-box {
- margin-left: 7rem;
-}
-.content2 {
- font-family: Garamond;
- font-size: 30px;
- color: rgb(255, 255, 255);
- margin-right: -2rem; 
- align-items: center;
-}
-.content-box2 {
- margin-left: 7rem;
- 
-}
-.rule2 {
- font-size: 1.7rem;    
-}
-  
-}
-
-@media only screen and (min-width: 1439px) and (max-width: 1900px)
-{
-  .rule {
-    font-size: 2.5rem;
- 
-}
-.content {
- font-family: Garamond;
- font-size: 29px;
- color: rgb(255, 255, 255);
- margin-right: -2rem; 
- align-items: center;
-}
-.content-box {
- margin-left: 8rem;
-}
-.content2 {
- font-family: Garamond;
- font-size: 29px;
- color: rgb(255, 255, 255);
- margin-right: -2rem; 
- align-items: center;
-}
-.content-box2 {
- margin-left: 8rem;
- 
-}
-.rule2 {
- font-size: 1.7rem;    
-}
-  
-}
 
 @media only screen and (min-width: 820px) and (max-width: 1100px)
-{
-  .rule {
-    font-size: 2.5rem;
- 
+{.rule {
+  font-size: 2.5rem;
+
+}
+.bg{
+background-image: url(econlogoblue.png);
+background-size: cover;
+background-repeat: no-repeat;
+z-index: 500px;
+width: 10rem;
+height: 9rem;
+margin-top: -175px;
+margin-left: 80px;
+}
+.bg1{
+background-image: url(vecteezy_champions-league-logo-symbol-white-design-football-vector_10994476\ [Converted].png);
+background-size: cover;
+background-repeat: no-repeat;
+z-index: 500px;
+width: 18rem;
+height: 9rem;
+margin-top: -140px;
+margin-left: 48rem;
+
 }
 .content {
- font-family: Garamond;
- font-size: 26.9px;
- color: rgb(255, 255, 255);
- margin-right: -2rem; 
- align-items: center;
+font-family: Garamond;
+font-size: 26.9px;
+color: rgb(255, 255, 255);
+margin-right: -2rem; 
+align-items: center;
 }
 .content-box {
- margin-left: 5.5rem;
+margin-left: 5.5rem;
 }
 .content2 {
- font-family: Garamond;
- font-size: 26.9px;
- color: rgb(255, 255, 255);
- margin-right: -2rem; 
- align-items: center;
+font-family: Garamond;
+font-size: 26.9px;
+color: rgb(255, 255, 255);
+margin-right: -2rem; 
+align-items: center;
 }
 .content-box2 {
- margin-left: 5.5rem;
- 
+margin-left: 5.5rem;
+
 }
 .rule2 {
- font-size: 1.4rem;    
+font-size: 1.4rem;   
+margin-top: 1rem; 
 }
-  
+
 }
 
 @media only screen and (min-width: 500px) and (max-width: 821px)
